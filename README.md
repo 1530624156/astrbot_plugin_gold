@@ -1,9 +1,2 @@
-# helloworld
-
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+# GoldSearch国内金饰价格查询
+`/gold`命令查询
